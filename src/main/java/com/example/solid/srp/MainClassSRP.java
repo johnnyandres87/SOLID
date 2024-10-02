@@ -1,4 +1,4 @@
-package com.example.solid.SRP;
+package com.example.solid.srp;
 
 public class MainClassSRP {
 
